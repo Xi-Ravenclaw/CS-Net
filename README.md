@@ -1,7 +1,7 @@
 # CS-Net
 Paper title: 
 
-CS-Net: A Novel Deep Learning Method for sEMG-Based Mixed Gesture Recognition with Transfer Learning Strategy
+CS-Net:.............
 
 Introduction of this github page:
 
