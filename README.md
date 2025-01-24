@@ -1,7 +1,7 @@
 # CS-Net
 Paper title: 
 
-CS-Net:.............
+CS-Net..............
 
 Introduction of this github page:
 
