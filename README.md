@@ -1,7 +1,7 @@
 # CS-Net
 Paper title: 
 
-CS-Net..............
+CS-Net: Convolutional Spider Neural Network for Surface-EMG-Based hybrid Gesture Recognition
 
 Introduction of this github page:
 
