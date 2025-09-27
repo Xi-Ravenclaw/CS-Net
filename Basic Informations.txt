@@ -1,0 +1,9 @@
+#Title: "CS-Net: Convolutional Spider Neural Network for Surface-EMG-Based hybrid Gesture Recognition"
+
+#Authors:  "Xi ZHANG, Jiannan CHEN, Lei LIU, Fuchun SUN"
+
+#DOI: 10.1088/1741-2552/ae0c38
+
+#Github URL: https://github.com/Xi-Ravenclaw/CS-Net
+
+#License：Apache-2.0
