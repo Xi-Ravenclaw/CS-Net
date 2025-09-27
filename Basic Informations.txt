@@ -7,3 +7,5 @@
 #Github URL: https://github.com/Xi-Ravenclaw/CS-Net
 
 #License：Apache-2.0
+
+### If you find our work, code, or database useful, please cite our paper. Thank you. ###
