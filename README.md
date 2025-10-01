@@ -5,6 +5,8 @@ Authors:  "Xi ZHANG, Jiannan CHEN, Lei LIU, Fuchun SUN"
 
 DOI: 10.1088/1741-2552/ae0c38
 
+PMID: 41005324
+
 Github URL: https://github.com/Xi-Ravenclaw/CS-Net
 
 Introduction of this github page:
